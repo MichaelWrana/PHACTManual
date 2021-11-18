@@ -161,7 +161,7 @@
 						<h2 class="section-heading">What is PHACT?</h2>
 						<p>Capturing anonymous, publicly-available data, we track the location pathways and interactions of individuals within a public environment. We call this Passive Historical Aggregate Contact Tracing, or PHACT. PHACT data is anonymous and publicly available, so opt-in by the individual is not required, eliminating privacy concerns. PHACT information is available through a SAAS platform and to the public through a mobile app. PHACT data is accurate and comprehensive. PHACT tracks the location pathways and interactions of all individuals within a public environment in real time, giving insight into exposure events and geo-specific hotspots. ​ Traditional peer-to-peer contact tracing applications provide basic information on exposure between individuals. PHACT nano-granular data aggregation extends analytics to include:
 						<ul>
-						    <li><strong class="me-1">The level and speed of contagion</strong></li>
+						    <li><strong class="me-1">The level and speed of contagion:</strong></li>
 						    <li><strong class="me-1">The differentiation of emerging variants</strong></li>
 						    <li><strong class="me-1">Identification of emerging hot-spots</strong></li>
 							<li><strong class="me-1">Predictive mitigation strategies</strong></li>	
